@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Remove this block only after live order processing, policies, and business details are verified.
